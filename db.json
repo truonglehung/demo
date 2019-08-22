@@ -11,4 +11,7 @@
   "profile": {
     "name": "typicode"
   }
+  "info": {
+    "age": "35"
+  }
 }
